@@ -28,7 +28,7 @@ Midrunner/Stalker — Emerging Market runs best from off the pace, but his conne
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501110552.png" alt="Emerging Market - Horse Photo" width="350"/>
+  <img src="../../Misc/Pasted%20image%2020260501110552.png" alt="Emerging Market - Horse Photo" width="350"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Emerging-Market_Klaravich-Stables-Inc-360x337.png" alt="Post 15 (Gate 14) - Jockey Silk" width="300"/>
 </div>
 

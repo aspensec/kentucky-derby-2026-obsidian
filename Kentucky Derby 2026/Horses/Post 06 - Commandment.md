@@ -12,7 +12,7 @@ running_style: Backrunner/Closer
 better: 
 derby_page: "https://www.kentuckyderby.com/horses/commandment/"
 ---
-![](../Misc/Pasted image 20260501102017.png)
+![](../../Misc/Pasted%20image%2020260501102017.png)
 ## Running Style
 
 Backrunner/Closer — Commandment will be positioned well off the pace, but unlike the deepest of closers he is eligible to settle ahead of horses like Right To Party and Golden Tempo. He relies on a powerful late punch and will be swinging wide in the stretch looking for running room. The key is that he doesn't need a complete pace meltdown — he just needs the front-runners to tire slightly as the race stretches out to 1¼ miles.
@@ -27,7 +27,7 @@ Backrunner/Closer — Commandment will be positioned well off the pace, but unli
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501111504.png" alt="Commandment - Horse Photo" width="375"/>
+  <img src="../../Misc/Pasted%20image%2020260501111504.png" alt="Commandment - Horse Photo" width="375"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Commandment_Wathnan-Racing-360x337.png" width="300"/>
 </div>
 

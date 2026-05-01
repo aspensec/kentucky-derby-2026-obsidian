@@ -12,7 +12,7 @@ running_style: Stalker
 better: 
 derby_page: "https://www.kentuckyderby.com/horses/intrepido/"
 ---
-![](../Misc/Pasted image 20260501101558.png)
+![](../../Misc/Pasted%20image%2020260501101558.png)
 ## Running Style
 
 Stalker — Intrepido has shown he is most effective when racing within striking range of the leaders, typically just off the pace. Rather than deep-closing or setting fractions, he stalks the pace and looks to pounce on the leaders in the stretch. His style suits a race where the early speed gets into a battle, allowing him to swoop past tiring front-runners.
@@ -26,7 +26,7 @@ Stalker — Intrepido has shown he is most effective when racing within striking
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501111653.png" alt="Intrepido - Horse Photo" width="385"/>
+  <img src="../../Misc/Pasted%20image%2020260501111653.png" alt="Intrepido - Horse Photo" width="385"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Intrepido_Dutch-Girl-Holdings-LLC_Irving-Ventures-LLC-360x337.png" alt="Post 3 - Jockey Silk" width="295"/>
 </div>
 

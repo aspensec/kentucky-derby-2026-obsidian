@@ -28,7 +28,7 @@ Backrunner/Deep Closer — Ocelli fits the profile of a deep closer who will be 
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501105423.png" alt="Ocelli - Horse Photo" width="395"/>
+  <img src="../../Misc/Pasted%20image%2020260501105423.png" alt="Ocelli - Horse Photo" width="395"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Ocelli_Ashley-Durr_Anthony-Tate_Front-Page-Equestrian-LLC-Kevin-Page-360x337.png" alt="Post 22 (Gate 20) - Jockey Silk" width="285"/>
 </div>
 

@@ -12,7 +12,7 @@ running_style: Presser/Midrunner
 better:
 derby_page: "https://www.kentuckyderby.com/horses/great-white/"
 ---
-![](../Misc/Pasted image 20260501105121.png)
+![](../../Misc/Pasted%20image%2020260501105121.png)
 ## Running Style
 
 Presser/Midrunner — Designated "E/P" (early pace/presser) in TwinSpires run style analysis, Great White sits somewhere between a frontrunner and a midpacker. He applies early pressure without necessarily leading, which gives him some versatility. He can adapt to a variety of pace scenarios and won't be left scrambling if the race develops differently than expected.
@@ -28,7 +28,7 @@ Presser/Midrunner — Designated "E/P" (early pace/presser) in TwinSpires run st
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501105246.png" alt="Great White - Horse Photo" width="375"/>
+  <img src="../../Misc/Pasted%20image%2020260501105246.png" alt="Great White - Horse Photo" width="375"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Great-White_Three-Chimneys-Farm-360x337.png" alt="Post 21 (Gate 19) - Jockey Silk" width="300"/>
 </div>
 

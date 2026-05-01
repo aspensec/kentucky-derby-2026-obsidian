@@ -12,7 +12,7 @@ running_style: Backrunner/Deep Closer
 better:
 derby_page: "https://www.kentuckyderby.com/horses/golden-tempo/"
 ---
-![](../Misc/Pasted image 20260501104814.png)
+![](../../Misc/Pasted%20image%2020260501104814.png)
 ## Running Style
 
 Backrunner/Deep Closer — Golden Tempo has a very well-defined running style and won't deviate from it: he drops far back early and offers one big late run. His connections have shown no inclination to change this approach, making him one of the most predictable horses in the field style-wise. He needs the pace to collapse completely for his late charge to matter, but with four confirmed frontrunners in this field, that scenario is genuinely possible.
@@ -28,7 +28,7 @@ Backrunner/Deep Closer — Golden Tempo has a very well-defined running style an
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501105004.png" alt="Golden Tempo - Horse Photo" width="350"/>
+  <img src="../../Misc/Pasted%20image%2020260501105004.png" alt="Golden Tempo - Horse Photo" width="350"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Golden-Tempo_Phipps-Stable-St-Elias-Stable-360x337.png" alt="Post 19 (Gate 18) - Jockey Silk" width="300"/>
 </div>
 

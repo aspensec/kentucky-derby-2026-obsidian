@@ -28,7 +28,7 @@ Frontrunner — Potente has shown high early speed in his races and figures to b
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501110628.png" alt="Potente - Horse Photo" width="395"/>
+  <img src="../../Misc/Pasted%20image%2020260501110628.png" alt="Potente - Horse Photo" width="395"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Potente_Speedway-Stables-LLC-360x337.png" alt="Post 14 (Gate 13) - Jockey Silk" width="285"/>
 </div>
 

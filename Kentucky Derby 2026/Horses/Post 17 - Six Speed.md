@@ -28,7 +28,7 @@ Frontrunner — Six Speed was clear in second after dictating the tempo in the U
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501104236.png" alt="Six Speed - Horse Photo" width="375"/>
+  <img src="../../Misc/Pasted%20image%2020260501104236.png" alt="Six Speed - Horse Photo" width="375"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Six-Speed_Brunetti-Dugan-Stables_Black-Type-Thoroughbreds_Steve-Adkisson-Swinbank-Stables-360x337.png" alt="Post 17 (Gate 16) - Jockey Silk" width="300"/>
 </div>
 

@@ -12,7 +12,7 @@ running_style: Closer
 better:
 derby_page: "https://www.kentuckyderby.com/horses/albus/"
 ---
-![](../Misc/Pasted image 20260501101059.png)
+![](../../Misc/Pasted%20image%2020260501101059.png)
 ## Running Style
 
 Closer — Albus is a late-running type who has historically been slow out of the gate, particularly in his 2-year-old campaign. He relies on picking up tired horses in the stretch rather than making any kind of early move. In a wide-open pace scenario that scenario can work, but in a 20-horse field he'll need a clean, uncrowded run through traffic late.
@@ -26,7 +26,7 @@ Closer — Albus is a late-running type who has historically been slow out of th
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501101328.png" alt="Albus - Horse Photo" width="385"/>
+  <img src="../../Misc/Pasted%20image%2020260501101328.png" alt="Albus - Horse Photo" width="385"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Albus_Pin-Oak-Stud-360x337.png" alt="Post 2 - Jockey Silk" width="275"/>
 </div>
 

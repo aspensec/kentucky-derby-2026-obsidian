@@ -12,7 +12,7 @@ running_style: Backrunner/Closer
 better: 
 derby_page: "https://www.kentuckyderby.com/horses/wonder-dean/"
 ---
-![](../Misc/Pasted image 20260501102625.png)
+![](../../Misc/Pasted%20image%2020260501102625.png)
 ## Running Style
 
 Backrunner/Closer — Wonder Dean put in a fine stretch run to collar a leader in his UAE Derby victory, showing a classic closing style that improves as the distance gets longer. He runs particularly well at nine furlongs (1⅛ miles) or longer, which bodes well for the 1¼-mile Kentucky Derby distance. He will drop back early and rely on finding a clear path late to unleash his run.
@@ -28,7 +28,7 @@ Backrunner/Closer — Wonder Dean put in a fine stretch run to collar a leader i
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501111014.png" alt="Wonder Dean - Horse Photo" width="375"/>
+  <img src="../../Misc/Pasted%20image%2020260501111014.png" alt="Wonder Dean - Horse Photo" width="375"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Wonder-Dean_Yoshinari-Yamamoto-360x337.png" alt="Post 10 - Jockey Silk" width="300"/>
 </div>
 

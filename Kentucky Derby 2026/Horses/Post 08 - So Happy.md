@@ -27,7 +27,7 @@ Frontrunner — So Happy possesses triple-digit Early Pace numbers, meaning he i
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501111150.png" alt="So Happy - Horse Photo" width="385"/>
+  <img src="../../Misc/Pasted%20image%2020260501111150.png" alt="So Happy - Horse Photo" width="385"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/So-Happy_Norman-Stables-LLC_Saints-or-Sinners-360x337.png" alt="Post 8 - Jockey Silk" width="295"/>
 </div>
 

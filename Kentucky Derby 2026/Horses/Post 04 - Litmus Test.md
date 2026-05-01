@@ -27,7 +27,7 @@ Presser/Midrunner — Designated "P" (Presser) in TwinSpires run style analysis,
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501111611.png" alt="Litmus Test - Horse Photo" width="383"/>
+  <img src="../../Misc/Pasted%20image%2020260501111611.png" alt="Litmus Test - Horse Photo" width="383"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Litmus-Test_SF-Racing-LLC_Starlight-Racing_Madaket-Stables-LLC_Stonestreet-Stables_Dianne-Bashor_Determined-Stables_Golconda-Stable_Waves-Edge-Capital_Catherine-Donovan-360x337.png" alt="Post 4 - Jockey Silk" width="295"/>
 </div>
 

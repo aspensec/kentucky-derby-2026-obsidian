@@ -26,7 +26,7 @@ Closer — Renegade is a come-from-behind type who demonstrated his closing abil
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501100010.png" alt="Renegade - Horse Photo" width="350"/>
+  <img src="../../Misc/Pasted%20image%2020260501100010.png" alt="Renegade - Horse Photo" width="350"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2025/12/Renegade_Robert-Lawana-Low_-Repole-Stable-360x337.png" alt="Post 1 - Jockey Silk" width="300"/>
 </div>
 

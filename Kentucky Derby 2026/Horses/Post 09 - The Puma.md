@@ -12,7 +12,7 @@ running_style: Midrunner/Presser
 better: 
 derby_page: "https://www.kentuckyderby.com/horses/the-puma/"
 ---
-![](../Misc/Pasted image 20260501102350.png)
+![](../../Misc/Pasted%20image%2020260501102350.png)
 ## Running Style
 
 Midrunner/Presser — The Puma is one of the most versatile pace types in the field. He rallied impressively to take the Tampa Bay Derby but also proved he could contest the lead in the Florida Derby. This ability to adapt makes him dangerous in any pace scenario — he can sit near the front if the speed collapses, or rate just off the pace and make a mid-race move. Trainer Delgado and jockey Castellano will have options on how to ride him.
@@ -27,7 +27,7 @@ Midrunner/Presser — The Puma is one of the most versatile pace types in the fi
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501111111.png" alt="The Puma - Horse Photo" width="375"/>
+  <img src="../../Misc/Pasted%20image%2020260501111111.png" alt="The Puma - Horse Photo" width="375"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/The-Puma_OGMA-Investments_JR-Ranch_High-Step-Racing-360x337.png" alt="Post 9 - Jockey Silk" width="300"/>
 </div>
 

@@ -27,7 +27,7 @@ Mid-to-Backrunner — Chief Wallabee is typically an off-the-pace runner, found 
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="../Misc/Pasted image 20260501110738.png" alt="Chief Wallabee - Horse Photo" width="387"/>
+  <img src="../../Misc/Pasted%20image%2020260501110738.png" alt="Chief Wallabee - Horse Photo" width="387"/>
   <img src="https://www.kentuckyderby.com/wp-content/uploads/sites/2/2026/04/Chief-Wallabee_Michael-Katherine-G.-Ball-360x337.png" alt="Post 12 - Jockey Silk" width="292"/>
 </div>
 
