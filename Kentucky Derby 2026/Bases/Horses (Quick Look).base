@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.folder == "Horse Racing/Kentucky Derby 2026/Horses"
+properties:
+  file.name:
+    displayName: horse name
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - better
+      - odds
+      - derby_page
