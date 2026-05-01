@@ -12,7 +12,7 @@ running_style: Mid-to-Backrunner
 better: 
 derby_page: "https://www.kentuckyderby.com/horses/chief-wallabee/"
 ---
-[![2026 Kentucky Derby: Expert picks, with some long shot bets | Lexington  Herald Leader](https://www.kentucky.com/public/sports/college/kentucky-sports/uk-basketball-men/temcw0/picture315561268/alternates/LANDSCAPE_1200/LEX_ChiefWallabee_2026_04_26_01-MorningWorks_HJ.JPG)
+![[Pasted image 20260501120624.png]]
 ## Running Style
 
 Mid-to-Backrunner — Chief Wallabee is typically an off-the-pace runner, found in the middle or back of the pack before making his move. However, a notable equipment change for this race — the addition of blinkers for the first time — may signal that connections are looking for a more forwardly placed effort. Blinkers help horses focus and are often added to encourage a sharper break and tighter pace position. How he responds to this change is one of the key storylines to watch on race day.

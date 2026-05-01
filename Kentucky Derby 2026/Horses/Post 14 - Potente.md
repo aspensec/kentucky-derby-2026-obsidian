@@ -12,7 +12,7 @@ running_style: Frontrunner
 better: 
 derby_page: "https://www.kentuckyderby.com/horses/potente/"
 ---
-[![Kentucky Derby contender Potente has arrived at Churchill Downs.](https://pbs.twimg.com/media/HGnvmrZWAAAbAai.jpg)
+![Kentucky Derby contender Potente has arrived at Churchill Downs.](https://pbs.twimg.com/media/HGnvmrZWAAAbAai.jpg)
 ## Running Style
 
 Frontrunner — Potente has shown high early speed in his races and figures to be forwardly placed from the start, whether sitting just off the pace or outright leading with an alert break from the gate. With an outside post (14, actual gate 13), he'll have room to establish position without getting squeezed. The question is whether he can sustain his speed over 1¼ miles against other speed horses like So Happy, Pavlovian, and Six Speed.

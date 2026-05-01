@@ -12,7 +12,7 @@ running_style: Backrunner/Deep Closer
 better: 
 derby_page: "https://www.kentuckyderby.com/horses/ocelli/"
 ---
-[![This is Kentucky Derby contender Ocelli. He drew into the field following  Thursday's scratch of Fulleffort. Ocelli has morning line odds of 50-1.  (📸credit: Coady Media)](https://pbs.twimg.com/media/HHK4t_yXEAAnSOS.jpg)
+![This is Kentucky Derby contender Ocelli. He drew into the field following  Thursday's scratch of Fulleffort. Ocelli has morning line odds of 50-1.  (📸credit: Coady Media)](https://pbs.twimg.com/media/HHK4t_yXEAAnSOS.jpg)
 ## Running Style
 
 Backrunner/Deep Closer — Ocelli fits the profile of a deep closer who will be near the back of the pack for the majority of the race. He would need a complete pace meltdown — the kind where all the frontrunners completely fall apart in the final turn — to make a serious impact. His late run is his only weapon, and in a field this competitive, that one weapon needs everything to go exactly right.

@@ -12,7 +12,7 @@ running_style: Presser/Midrunner
 better: Robert
 derby_page: https://www.kentuckyderby.com/horses/litmus-test/
 ---
-[![Bob Baffert runs Litmus Test, Potente in 2026 Kentucky Derby | Lexington  Herald Leader](https://www.kentucky.com/public/latest-news/7z4oei/picture315581929/alternates/FREE_1200/Litmus%20Test%202026%20Kentucky%20Derby)
+![[Pasted image 20260501120435.png]]
 ## Running Style
 
 Presser/Midrunner — Designated "P" (Presser) in TwinSpires run style analysis, Litmus Test likes to run near the front without necessarily leading. He'll apply pressure to the frontrunners in the early and middle portions of the race, sitting comfortably in the 3rd–5th range, then try to hold on or kick clear in the stretch. This style is versatile and can work from a variety of post positions.

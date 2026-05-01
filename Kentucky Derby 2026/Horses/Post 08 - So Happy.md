@@ -12,7 +12,7 @@ running_style: Frontrunner
 better: 
 derby_page: "https://www.kentuckyderby.com/horses/so-happy/"
 ---
-[![Kentucky Derby 2026 horses to root for in Churchill Downs race field](https://www.courier-journal.com/gcdn/authoring/authoring-images/2026/04/22/PLOU/89731763007-2026-kentucky-derby-horse-so-happy-1.JPG?width=1733&height=1183&fit=crop&format=pjpg&auto=webp)
+![Kentucky Derby 2026 horses to root for in Churchill Downs race field](https://www.courier-journal.com/gcdn/authoring/authoring-images/2026/04/22/PLOU/89731763007-2026-kentucky-derby-horse-so-happy-1.JPG?width=1733&height=1183&fit=crop&format=pjpg&auto=webp)
 ## Running Style
 
 Frontrunner — So Happy possesses triple-digit Early Pace numbers, meaning he is among the fastest horses out of the gate in this field. He needs to be prominently placed — ideally near or at the lead — to be effective. If he gets shuffled back or caught in traffic early, his race is essentially over. The concern is that with Pavlovian, Six Speed, and Potente also wanting the early lead, there could be a fierce battle for the front, which would likely set up the race for closers.

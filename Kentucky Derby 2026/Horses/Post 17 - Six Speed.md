@@ -12,7 +12,7 @@ running_style: Frontrunner
 better:
 derby_page: "https://www.kentuckyderby.com/horses/six-speed/"
 ---
-[![Six Speed Archives - TDN | Thoroughbred Daily News | Horse Racing News,  Results and Video | Thoroughbred Breeding and Auctions](https://www.thoroughbreddailynews.com/wp-content/uploads/2026/04/Six-Speed-Work-Churchill-Downs-04-27-26-05-Kurtis-Coady.jpg)
+![Six Speed Archives - TDN | Thoroughbred Daily News | Horse Racing News,  Results and Video | Thoroughbred Breeding and Auctions](https://www.thoroughbreddailynews.com/wp-content/uploads/2026/04/Six-Speed-Work-Churchill-Downs-04-27-26-05-Kurtis-Coady.jpg)
 ## Running Style
 
 Frontrunner — Six Speed was clear in second after dictating the tempo in the UAE Derby and will be forwardly placed from the break here. He's a Euro/Middle East Road qualifier who loves setting or tracking the early pace. From the far outside Post 17 (actual gate 16), his early speed should allow him to find a comfortable position near the front, though he'll cover extra ground getting there.
