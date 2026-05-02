@@ -3,14 +3,14 @@ post: 2
 horse_name: Albus
 color: Dark Bay
 odds: 30-1
-status: active
 trainer: Riley Mott
 owner: Pin Oak Stud (Dana Bernhard)
 jockey: Manny Franco
-jockey_weight: 126
 running_style: Closer
 better:
 derby_page: "https://www.kentuckyderby.com/horses/albus/"
+points: 100
+earnings: "$400,000"
 ---
 ![](../../Misc/Pasted%20image%2020260501101059.png)
 ## Running Style

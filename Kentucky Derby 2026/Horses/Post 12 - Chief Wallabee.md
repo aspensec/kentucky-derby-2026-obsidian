@@ -1,16 +1,16 @@
 ---
-post: 12
+post: 10
 horse_name: Chief Wallabee
 color: Bay
-odds: "8-1"
-status: active
+odds: 8-1
 trainer: William I. Mott
-owner: "Michael & Katherine G. Ball"
+owner: Michael & Katherine G. Ball
 jockey: Junior Alvarado
-jockey_weight: 126
 running_style: Mid-to-Backrunner
-better: 
-derby_page: "https://www.kentuckyderby.com/horses/chief-wallabee/"
+better:
+derby_page: https://www.kentuckyderby.com/horses/chief-wallabee/
+points: 50
+earnings: "$175,800"
 ---
 ![](../../Misc/Pasted%20image%2020260501120624.png)
 ## Running Style

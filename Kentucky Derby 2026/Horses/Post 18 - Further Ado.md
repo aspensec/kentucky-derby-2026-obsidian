@@ -1,16 +1,16 @@
 ---
-post: 18
+post: 15
 horse_name: Further Ado
 color: Chestnut
-odds: "6-1"
-status: active
+odds: 6-1
 trainer: Brad H. Cox
-owner: "Spendthrift Farm LLC (Eric P. Gustavson)"
+owner: Spendthrift Farm LLC (Eric P. Gustavson)
 jockey: John Velazquez
-jockey_weight: 126
 running_style: Stalker/Presser
-better: 
-derby_page: "https://www.kentuckyderby.com/horses/further-ado/"
+better:
+derby_page: https://www.kentuckyderby.com/horses/further-ado/
+points: 135
+earnings: "$1,068,095"
 ---
 ![](../../Misc/Pasted%20image%2020260501104530.png)
 ## Running Style

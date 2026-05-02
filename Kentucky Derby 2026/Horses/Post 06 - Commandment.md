@@ -1,16 +1,16 @@
 ---
-post: 6
+post: 5
 horse_name: Commandment
 color: Bay
 odds: 6-1
-status: active
 trainer: Brad H. Cox
 owner: Wathnan Racing (Tameem Binhamad KH H All-Thani)
 jockey: Luis Saez
-jockey_weight: 126
 running_style: Backrunner/Closer
 better: Aspen
 derby_page: https://www.kentuckyderby.com/horses/commandment/
+points: 150
+earnings: "$943,020"
 ---
 
 ![](../../Misc/Pasted%20image%2020260502071655.png)

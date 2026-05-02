@@ -1,16 +1,16 @@
 ---
-post: 15
+post: 12
 horse_name: Emerging Market
 color: Chestnut
 odds: 15-1
-status: active
 trainer: Chad Brown
 owner: Klaravich Stables
 jockey: Flavien Prat
-jockey_weight: 126
 running_style: Midrunner/Stalker
 better: Rich
 derby_page: https://www.kentuckyderby.com/horses/emerging-market/
+points: 100
+earnings: "$600,000"
 ---
 [![He took us here.' Emerging Market is the buzz horse of the 2026 Kentucky  Derby - AOL](https://s.yimg.com/ny/api/res/1.2/EQv6a9ui9NGPXKykd9LYcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/aol_yahoo_sports_800/b95fd52f1f3cb7fb28063ec3e24ecd23)
 ## Running Style

@@ -1,16 +1,16 @@
 ---
-post: 22
+post: 18
 horse_name: Ocelli
 color: Bay
-odds: "50-1"
-status: active
+odds: 50-1
 trainer: D. Whitworth Beckman
-owner: "Ashley Durr, Anthony Tate, and Front Page Equestrian"
+owner: Ashley Durr, Anthony Tate, and Front Page Equestrian
 jockey: Joseph D. Ramos
-jockey_weight: 126
 running_style: Backrunner/Deep Closer
-better: 
-derby_page: "https://www.kentuckyderby.com/horses/ocelli/"
+better:
+derby_page: https://www.kentuckyderby.com/horses/ocelli/
+points: 25
+earnings: "$80,200"
 ---
 ![This is Kentucky Derby contender Ocelli. He drew into the field following  Thursday's scratch of Fulleffort. Ocelli has morning line odds of 50-1.  (📸credit: Coady Media)](https://pbs.twimg.com/media/HHK4t_yXEAAnSOS.jpg)
 ## Running Style

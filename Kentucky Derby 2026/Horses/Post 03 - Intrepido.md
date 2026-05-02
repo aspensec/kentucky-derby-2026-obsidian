@@ -3,14 +3,14 @@ post: 3
 horse_name: Intrepido
 color: Bay
 odds: "50-1"
-status: active
 trainer: Jeff Mullins
 owner: "Dutch Girl Holdings LLC (Michele Arthur) & Irving Ventures LLC (Ruben Isla)"
 jockey: Hector Berrios
-jockey_weight: 126
 running_style: Stalker
 better: 
 derby_page: "https://www.kentuckyderby.com/horses/intrepido/"
+points: 38
+earnings: "$290,000"
 ---
 ![](../../Misc/Pasted%20image%2020260501101558.png)
 ## Running Style

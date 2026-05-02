@@ -1,16 +1,16 @@
 ---
-post: 19
+post: 16
 horse_name: Golden Tempo
 color: Bay
 odds: 30-1
-status: active
 trainer: Cherie DeVaux
 owner: Phipps Stable and St. Elias Stable
 jockey: Jose Ortiz
-jockey_weight: 126
 running_style: Backrunner/Deep Closer
 better:
 derby_page: https://www.kentuckyderby.com/horses/golden-tempo/
+points: 60
+earnings: "$300,000"
 ---
 ![](../../Misc/Pasted%20image%2020260502073527.png)
 

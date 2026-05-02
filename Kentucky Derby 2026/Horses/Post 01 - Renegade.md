@@ -3,14 +3,14 @@ post: 1
 horse_name: Renegade
 color: Bay
 odds: "4-1"
-status: active
 trainer: Todd A. Pletcher
 owner: "Robert & Lawana L. Low & Repole Stable (Mike Repole)"
 jockey: Irad Ortiz Jr.
-jockey_weight: 126
 running_style: Closer
 better: 
 derby_page: "https://www.kentuckyderby.com/horses/renegade/"
+points: 125
+earnings: "$1,002,500"
 ---
 ![](../../Misc/Pasted%20image%2020260501120131.png)
 ## Running Style

@@ -1,16 +1,16 @@
 ---
-post: 10
+post: 8
 horse_name: Wonder Dean (JPN)
 color: Dark Bay
-odds: "30-1"
-status: active
+odds: 30-1
 trainer: Daisuke Takayanagi
-owner: "Yoshinari Yamamoto"
+owner: Yoshinari Yamamoto
 jockey: Ryusei Sakai
-jockey_weight: 126
 running_style: Backrunner/Closer
-better: 
-derby_page: "https://www.kentuckyderby.com/horses/wonder-dean/"
+better:
+derby_page: https://www.kentuckyderby.com/horses/wonder-dean/
+points: 106
+earnings: "$725,172"
 ---
 ![](../../Misc/Pasted%20image%2020260501102625.png)
 ## Running Style

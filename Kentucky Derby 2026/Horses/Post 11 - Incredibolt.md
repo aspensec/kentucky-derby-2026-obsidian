@@ -1,16 +1,16 @@
 ---
-post: 11
+post: 9
 horse_name: Incredibolt
 color: Dark Bay or Brown
-odds: "20-1"
-status: active
+odds: 20-1
 trainer: Riley Mott
-owner: "Pin Oak Stud LLC (Dana Bernhard)"
+owner: Pin Oak Stud LLC (Dana Bernhard)
 jockey: Jaime Torres
-jockey_weight: 126
 running_style: Stalker/Midrunner
-better: 
-derby_page: "https://www.kentuckyderby.com/horses/incredibolt/"
+better:
+derby_page: https://www.kentuckyderby.com/horses/incredibolt/
+points: 60
+earnings: "$424,570"
 ---
 ![](../../Misc/Pasted%20image%2020260501102736.png)
 ## Running Style

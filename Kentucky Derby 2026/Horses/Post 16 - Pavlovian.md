@@ -1,16 +1,16 @@
 ---
-post: 16
+post: 13
 horse_name: Pavlovian
 color: Gray
-odds: "30-1"
-status: active
+odds: 30-1
 trainer: Doug O'Neill
-owner: "Reddam Racing"
+owner: Reddam Racing
 jockey: Edwin Maldonado
-jockey_weight: 126
 running_style: Frontrunner
-better: 
-derby_page: "https://www.kentuckyderby.com/horses/pavlovian/"
+better:
+derby_page: https://www.kentuckyderby.com/horses/pavlovian/
+points: 70
+earnings: "$527,000"
 ---
 ![](../../Misc/Pasted%20image%2020260502073005.png)
 

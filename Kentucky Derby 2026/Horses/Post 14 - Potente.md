@@ -1,16 +1,16 @@
 ---
-post: 14
+post: 11
 horse_name: Potente
 color: Bay
-odds: "20-1"
-status: active
+odds: 20-1
 trainer: Bob Baffert
-owner: "Speedway Stables LLC (Peter Fluor & K.C. Weiner)"
+owner: Speedway Stables LLC (Peter Fluor & K.C. Weiner)
 jockey: Juan Hernandez
-jockey_weight: 126
 running_style: Frontrunner
-better: 
-derby_page: "https://www.kentuckyderby.com/horses/potente/"
+better:
+derby_page: https://www.kentuckyderby.com/horses/potente/
+points: 100
+earnings: "$220,000"
 ---
 ![Kentucky Derby contender Potente has arrived at Churchill Downs.](https://pbs.twimg.com/media/HGnvmrZWAAAbAai.jpg)
 ## Running Style

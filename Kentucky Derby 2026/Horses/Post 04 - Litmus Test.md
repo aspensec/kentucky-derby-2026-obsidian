@@ -3,14 +3,14 @@ post: 4
 horse_name: Litmus Test
 color: Bay
 odds: 50-1
-status: active
 trainer: Bob Baffert
 owner: SF Racing LLC, Starlight Racing, Madaket Stables, Stonestreet Stables, and partners
 jockey: Martin Garcia
-jockey_weight: 126
 running_style: Presser/Midrunner
 better: Robert
 derby_page: https://www.kentuckyderby.com/horses/litmus-test/
+points: 
+earnings: ""
 ---
 ![](../../Misc/Pasted%20image%2020260501120435.png)
 ## Running Style

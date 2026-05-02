@@ -1,16 +1,16 @@
 ---
-post: 7
+post: 6
 horse_name: Danon Bourbon
 color: Dark Bay
-odds: "20-1"
-status: active
+odds: 20-1
 trainer: Manabu Ikezoe
-owner: "Danox Co. Ltd."
+owner: Danox Co. Ltd.
 jockey: Atsuya Nishimura
-jockey_weight: 126
 running_style: Stalker/Midrunner
-better: 
-derby_page: "https://www.kentuckyderby.com/horses/danon-bourbon/"
+better:
+derby_page: https://www.kentuckyderby.com/horses/danon-bourbon/
+points: 40
+earnings: "$221,246"
 ---
 ![](https://s.yimg.com/ny/api/res/1.2/tEeAw.FdMjk656spni5GeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNzQ4O2NmPXdlYnA-/https://media.zenfs.com/en/the-courier-journal/2a25e077b26f453ccd8b1c9988049698)
 ## Running Style

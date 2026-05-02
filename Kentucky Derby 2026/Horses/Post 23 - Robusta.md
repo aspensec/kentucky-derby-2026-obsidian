@@ -1,16 +1,16 @@
 ---
-post: 23
+post: 19
 horse_name: Robusta
 color: Bay
 odds: 50-1
-status: active
 trainer: Doug O'Neill
 owner: Calumet Farm
 jockey: Cristian Torres
-jockey_weight: 126
 running_style: Presser/Frontrunner
 better:
 derby_page: https://www.kentuckyderby.com/horses/robusta/
+points: 25
+earnings: "$40,500"
 ---
 ![](../../Misc/Pasted%20image%2020260502065338.png)
 ## Running Style
