@@ -10,13 +10,17 @@ views:
     order:
       - file.name
       - better
-      - odds
-      - trainer
-      - jockey_weight
-      - running_style
       - post
+      - odds
+      - points
+      - earnings
+      - trainer
+      - running_style
     sort:
       - property: file.name
         direction: ASC
       - property: running_style
         direction: ASC
+    columnSize:
+      note.points: 92
+      note.post: 63

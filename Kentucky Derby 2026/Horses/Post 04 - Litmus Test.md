@@ -9,8 +9,8 @@ jockey: Martin Garcia
 running_style: Presser/Midrunner
 better: Robert
 derby_page: https://www.kentuckyderby.com/horses/litmus-test/
-points: 
-earnings: ""
+points: 34
+earnings: "$429,688"
 ---
 ![](../../Misc/Pasted%20image%2020260501120435.png)
 ## Running Style
