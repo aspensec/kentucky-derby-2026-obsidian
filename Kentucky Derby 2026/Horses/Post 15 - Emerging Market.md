@@ -2,7 +2,7 @@
 post: 15
 horse_name: Emerging Market
 color: Chestnut
-odds: 11-1
+odds: 15-1
 status: active
 trainer: Chad Brown
 owner: Klaravich Stables

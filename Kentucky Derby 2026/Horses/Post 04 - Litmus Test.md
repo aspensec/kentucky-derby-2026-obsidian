@@ -2,7 +2,7 @@
 post: 4
 horse_name: Litmus Test
 color: Bay
-odds: 30-1
+odds: 50-1
 status: active
 trainer: Bob Baffert
 owner: SF Racing LLC, Starlight Racing, Madaket Stables, Stonestreet Stables, and partners

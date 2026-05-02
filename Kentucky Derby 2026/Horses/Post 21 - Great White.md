@@ -2,7 +2,7 @@
 post: 21
 horse_name: Great White
 color: Gray
-odds: 30-1
+odds: 50-1
 status: active
 trainer: John Ennis
 owner: Three Chimneys Farm (Goncalo B. Torrealba) & John Ennis
@@ -10,7 +10,7 @@ jockey: Alex Achard
 jockey_weight: 126
 running_style: Presser/Midrunner
 better:
-derby_page: "https://www.kentuckyderby.com/horses/great-white/"
+derby_page: https://www.kentuckyderby.com/horses/great-white/
 ---
 ![](../../Misc/Pasted%20image%2020260501105121.png)
 ## Running Style

@@ -10,7 +10,7 @@ jockey: Jose Ortiz
 jockey_weight: 126
 running_style: Backrunner/Deep Closer
 better:
-derby_page: "https://www.kentuckyderby.com/horses/golden-tempo/"
+derby_page: https://www.kentuckyderby.com/horses/golden-tempo/
 ---
 ![](../../Misc/Pasted%20image%2020260501104814.png)
 ## Running Style

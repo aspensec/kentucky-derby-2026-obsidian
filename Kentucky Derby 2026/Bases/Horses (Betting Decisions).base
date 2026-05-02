@@ -15,7 +15,7 @@ views:
       - jockey_weight
       - running_style
     sort:
-      - property: running_style
-        direction: ASC
       - property: file.name
+        direction: ASC
+      - property: running_style
         direction: ASC

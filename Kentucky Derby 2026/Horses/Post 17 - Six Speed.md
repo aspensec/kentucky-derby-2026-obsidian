@@ -2,7 +2,7 @@
 post: 17
 horse_name: Six Speed
 color: Bay
-odds: 40-1
+odds: 50-1
 status: active
 trainer: Bhupat Seemar
 owner: Brunetti Dugan Stables, Black Type Thoroughbreds, Steve Adkisson, Swinbank Stables
@@ -10,7 +10,7 @@ jockey: Brian Hernandez Jr.
 jockey_weight: 126
 running_style: Frontrunner
 better:
-derby_page: "https://www.kentuckyderby.com/horses/six-speed/"
+derby_page: https://www.kentuckyderby.com/horses/six-speed/
 ---
 ![Six Speed Archives - TDN | Thoroughbred Daily News | Horse Racing News,  Results and Video | Thoroughbred Breeding and Auctions](https://www.thoroughbreddailynews.com/wp-content/uploads/2026/04/Six-Speed-Work-Churchill-Downs-04-27-26-05-Kurtis-Coady.jpg)
 ## Running Style
