@@ -9,10 +9,11 @@ owner: Wathnan Racing (Tameem Binhamad KH H All-Thani)
 jockey: Luis Saez
 jockey_weight: 126
 running_style: Backrunner/Closer
-better:
+better: Aspen
 derby_page: https://www.kentuckyderby.com/horses/commandment/
 ---
-![](../../Misc/Pasted%20image%2020260501102017.png)
+
+![](../../Misc/Pasted%20image%2020260502071655.png)
 ## Running Style
 
 Backrunner/Closer — Commandment will be positioned well off the pace, but unlike the deepest of closers he is eligible to settle ahead of horses like Right To Party and Golden Tempo. He relies on a powerful late punch and will be swinging wide in the stretch looking for running room. The key is that he doesn't need a complete pace meltdown — he just needs the front-runners to tire slightly as the race stretches out to 1¼ miles.

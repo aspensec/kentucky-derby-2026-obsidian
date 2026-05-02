@@ -2,15 +2,15 @@
 post: 8
 horse_name: So Happy
 color: Bay
-odds: "15-1"
+odds: 15-1
 status: active
 trainer: Mark Glatt
-owner: "Norman Stables LLC (Robbie Norman) & Saints or Sinners (Hans & Ana Maron)"
+owner: Norman Stables LLC (Robbie Norman) & Saints or Sinners (Hans & Ana Maron)
 jockey: Mike Smith
 jockey_weight: 126
 running_style: Frontrunner
-better: 
-derby_page: "https://www.kentuckyderby.com/horses/so-happy/"
+better: Sheryl
+derby_page: https://www.kentuckyderby.com/horses/so-happy/
 ---
 ![Kentucky Derby 2026 horses to root for in Churchill Downs race field](https://www.courier-journal.com/gcdn/authoring/authoring-images/2026/04/22/PLOU/89731763007-2026-kentucky-derby-horse-so-happy-1.JPG?width=1733&height=1183&fit=crop&format=pjpg&auto=webp)
 ## Running Style

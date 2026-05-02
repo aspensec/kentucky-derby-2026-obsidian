@@ -12,7 +12,8 @@ running_style: Frontrunner
 better: 
 derby_page: "https://www.kentuckyderby.com/horses/pavlovian/"
 ---
-![](../../Misc/Pasted%20image%2020260501103910.png)
+![](../../Misc/Pasted%20image%2020260502073005.png)
+
 ## Running Style
 
 Frontrunner — Pavlovian has good early speed and figures to be forcing the tempo right from the break, assuming he gets away cleanly. He'll look to establish the front-running position alongside So Happy, Six Speed, and Potente. The gray's style is pure — he either leads or is near the lead at all times. If the pace duel up front burns out the other speed horses, Pavlovian could theoretically last — but the 1¼-mile distance makes that a tough ask with multiple rivals wanting the same real estate.
